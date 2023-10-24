@@ -53,7 +53,6 @@ see documentation
 
 [link](http://localhost:1487/api/docs) or here http://localhost:1487/api/docs
 
-
 ## Features
 * REST API principals
     * CRUD
@@ -70,7 +69,11 @@ npm install
 ```
 ## Running the app
 ```bash
-npm run dev
+npm run run dev
+```
+## Tests
+```bash
+npm run test
 ```
 you will need env file to run this app.
 ## Technologies
@@ -79,6 +82,11 @@ you will need env file to run this app.
 * TypeScript
 * Express.js & Express.js middleware
 * Zod validation
+* Passport.js
+* JWT
+* swagger-ui
+
+
 
 ## Data flow
 ![](./diagrams/data-flow.png)
