@@ -75,7 +75,7 @@ npm run run dev
 ```bash
 npm run test
 ```
-you will need env file to run this app.
+
 ## Technologies
 * Node.js
 * PostgreSQL with TypeORM
